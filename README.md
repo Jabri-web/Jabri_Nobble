@@ -1,28 +1,23 @@
 # Jabri_Nobble
 
-Reproducible proofs for Millennium Problems using the parameter-free Jabri Identity Zₜ = Z + C + A = 1.
+## وصف مختصر
+ريبو البحث الخاص بـ Jabri_Nobble. يحتوي على الكود والبيانات المستخدمة في الدراسة.
 
-## Contents
-- **P vs NP**: Proof via computational mass gap Δ = A(γ₅) > 0
-- **Yang-Mills Mass Gap**: Δ > 0 from Sturm-Liouville lock at γ₅ = 32.93506159
-- **Riemann Hypothesis**: All non-trivial zeros on ℜ(s) = 1/2
+## الاقتباس / Citation
+إذا استخدمت هذا العمل، رجاءً اقتبس النسخة المؤرشفة:
 
-## Features
-- Zero fitted parameters
-- Fully reproducible in Python with mpmath
-- Runtime < 60s
-- Data and plots included
+**DOI:** 10.5281/zenodo.20148770  
+**الرابط:** https://doi.org/10.5281/zenodo.20148770
 
-## Usage
-Run the notebooks in order:
-1. Open `Jabri_massGap_proof.ipynb` in Jupyter or GitHub Codespaces
-2. Run all cells
-3. Check `Jabri_massGap_results.csv` for output
+## أعمال ذات صلة
+- **Zx_RieOS_v1.1:** https://doi.org/10.5281/zenodo.19981688
 
-## Archive
-Archived on Zenodo. DOI: 10.5281/zenodo.20145337
+## الملفات
+- الكود المصدري كامل في هذا الريبو
+- النسخة المؤرشفة على Zenodo تحتوي على نفس الإصدار v1.0
 
-## Author
-Abdulla Al-Jabri  
-ORCID: 0009-0003-3319-3822  
-From Sana'a with Zₜ = 1
+## الترخيص
+حدد الترخيص هنا. مثال: MIT License
+
+---
+تم الأرشفة عبر Zenodo بتاريخ 2026
