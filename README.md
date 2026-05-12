@@ -1,23 +1,23 @@
 # Jabri_Nobble
 
-## وصف مختصر
-ريبو البحث الخاص بـ Jabri_Nobble. يحتوي على الكود والبيانات المستخدمة في الدراسة.
+## Description
+Research repository for Jabri_Nobble. Contains the code and data used in the study.
 
-## الاقتباس / Citation
-إذا استخدمت هذا العمل، رجاءً اقتبس النسخة المؤرشفة:
+## Citation
+If you use this work, please cite the archived version:
 
 **DOI:** 10.5281/zenodo.20148770  
-**الرابط:** https://doi.org/10.5281/zenodo.20148770
+**URL:** https://doi.org/10.5281/zenodo.20148770
 
-## أعمال ذات صلة
+## Related Work
 - **Zx_RieOS_v1.1:** https://doi.org/10.5281/zenodo.19981688
 
-## الملفات
-- الكود المصدري كامل في هذا الريبو
-- النسخة المؤرشفة على Zenodo تحتوي على نفس الإصدار v1.0
+## Files
+- Full source code is in this repository
+- The Zenodo archive contains the same version v1.0
 
-## الترخيص
-حدد الترخيص هنا. مثال: MIT License
+## License
+Specify your license here. Example: MIT License
 
 ---
-تم الأرشفة عبر Zenodo بتاريخ 2026
+Archived on Zenodo, 2026
