@@ -1,40 +1,7 @@
 cff-version: 1.2.0
-title: "Jabri_Nobble: Proofs Using the Jabri Identity"
-message: "If you use this work, please cite the specific paper via its DOI."
+title: Jabri_Nobble
+message: If you use this work, please cite the DOI.
 authors:
-    - family-names: "Al-Jabri"
-    given-names: "Abdulla"
-    affiliation: "Independent Researcher, Sana'a, Yemen"
-date-released: "2026-05-13"
-version: "1.0.0"
-repository-code: "https://github.com/jabri62018/Jabri_Nobble"
-license: "CC-BY-4.0"
-keywords:
-    - "Jabri identity"
-    - "Navier-Stokes"
-    - "Riemann Hypothesis"
-    - "P vs NP"
-    - "Yang-Mills"
-    - "Millennium Problems"
-references:
-    - type: dataset
-    title: "Navier-Stokes Existence and Smoothness on an Invariant Set Using the Jabri Identity"
-    authors:
-            - family-names: "Al-Jabri"
-        given-names: "Abdulla"
-    date-released: "2026-05-13"
-    identifiers:
-            - type: doi
-        value: "10.5281/zenodo.20149618"
-    url: "https://doi.org/10.5281/zenodo.20149618"
-
-    - type: dataset
-    title: "Riemann Hypothesis via the Jabri Identity"
-    authors:
-            - family-names: "Al-Jabri"
-        given-names: "Abdulla"
-    date-released: "2026-05-13"
-    identifiers:
-            - type: doi
-        value: "10.5281/zenodo.19981688"
-    url: "https://doi.org/10.5281/zenodo.19981688"
+    - family-names: Al-Jabri
+    given-names: Abdulla
+license: CC-BY-4.0
