@@ -11,6 +11,7 @@ Research repository for the Jabri_Nobble project. Contains the source code, note
 **Data:** `Jabri_Navier_results.csv`  
 **Figure:** `Jabri_Navier_fig.png`  
 **DOI:** 10.5281/zenodo.20148770  
+**URL:** https://doi.org/10.5281/zenodo.20148770  
 Proof of global existence and smoothness for 3D Navier-Stokes for initial data with $\|u_0\|_{H^s}\leq\gamma_5$.
 
 ### 2. Riemann Hypothesis
@@ -19,6 +20,7 @@ Proof of global existence and smoothness for 3D Navier-Stokes for initial data w
 **Data:** `Jabri_Identity.csv`, `Jabri_Wells.csv`  
 **Figures:** `Jabri_Identity_Proof.png`, `Figure_Zt1_identity.png`  
 **DOI:** 10.5281/zenodo.19981688  
+**URL:** https://doi.org/10.5281/zenodo.19981688  
 Derivation and numerical verification of the Jabri identity $Z_t=1$ for the first zeros.
 
 ### 3. P vs NP
