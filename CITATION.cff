@@ -38,25 +38,3 @@ references:
             - type: doi
         value: "10.5281/zenodo.19981688"
     url: "https://doi.org/10.5281/zenodo.19981688"
-
-    - type: dataset
-    title: "P vs NP via Time Complexity Bounds from the Jabri Identity"
-    authors:
-            - family-names: "Al-Jabri"
-        given-names: "Abdulla"
-    date-released: "2026-05-13"
-    identifiers:
-            - type: doi
-        value: "[ضع DOI حقها هنا]"
-    url: "[ضع رابط Zenodo هنا]"
-
-    - type: dataset
-    title: "Yang-Mills Mass Gap via Numerical Verification Using the Jabri Identity"
-    authors:
-            - family-names: "Al-Jabri"
-        given-names: "Abdulla"
-    date-released: "2026-05-13"
-    identifiers:
-            - type: doi
-        value: "[ضع DOI حقها هنا]"
-    url: "[ضع رابط Zenodo هنا]"

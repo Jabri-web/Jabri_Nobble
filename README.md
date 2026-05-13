@@ -3,6 +3,21 @@
 ## Description
 Research repository for the Jabri_Nobble project. Contains the source code, notebooks, and figures for proofs using the Jabri identity $Z_t=1$.
 
+
+## Review & Collaboration
+
+This repository presents a computational and analytical approach based on the Jabri Identity $Z_t=1$. 
+
+**Current scope:**
+- Numerical verification for the first 10 zeros of ζ(s)
+- Local analysis of `zx(s)` in the strip 0.4 ≤ Re(s) ≤ 0.6 for Im(s) ≤ 500
+- Reproducible code and data in the notebooks
+
+**Next step:**  
+I’m inviting mathematicians and researchers to review the method, reproduce the results, and help identify gaps or extensions.  
+If you see a flaw, a simplification, or a way to extend the bound to larger Im(s), please open an issue or PR.
+
+All code is MIT licensed. All data and notebooks are CC BY 4.0.
 ## Papers
 
 ### 1. Navier-Stokes Existence and Smoothness on an Invariant Set
