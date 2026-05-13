@@ -1,7 +1,10 @@
 cff-version: 1.2.0
-title: Jabri_Nobble
-message: If you use this work, please cite the DOI.
+message: "If you use this software, please cite it as below."
 authors:
-    - family-names: Al-Jabri
-    given-names: Abdulla
-license: CC-BY-4.0
+    - family-names: "Al-Jabri"
+    given-names: "Abdulla"
+title: "Jabri_Nobble"
+version: "1.0.0"
+doi: "10.5281/zenodo.19981688"
+date-released: "2026-05-13"
+url: "https://github.com/jabri62018/Jabri_Nobble"
