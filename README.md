@@ -10,8 +10,8 @@ Research repository for the Jabri_Nobble project. Contains the source code, note
 **Notebook:** `Jabri_Navier_proof.ipynb`  
 **Data:** `Jabri_Navier_results.csv`  
 **Figure:** `Jabri_Navier_fig.png`  
-**DOI:** 10.5281/zenodo.20148770  
-**URL:** https://doi.org/10.5281/zenodo.20148770  
+**DOI:** 10.5281/zenodo.20149618  
+**URL:** https://doi.org/10.5281/zenodo.20149618  
 Proof of global existence and smoothness for 3D Navier-Stokes for initial data with $\|u_0\|_{H^s}\leq\gamma_5$.
 
 ### 2. Riemann Hypothesis
@@ -28,6 +28,8 @@ Derivation and numerical verification of the Jabri identity $Z_t=1$ for the firs
 **Notebook:** `Jabri_n_p_proof.ipynb`  
 **Data:** `Jabri_NP_results.csv`  
 **Figure:** `Figure_Ztnp_Jabri.png`  
+**DOI:** [ضع DOI حقها هنا]  
+**URL:** [ضع الرابط هنا]  
 Proof that P ≠ NP using time complexity bounds from the Jabri identity.
 
 ### 4. Yang-Mills Mass Gap
@@ -35,6 +37,8 @@ Proof that P ≠ NP using time complexity bounds from the Jabri identity.
 **Notebook:** `Jabri_gap_proof.ipynb`  
 **Data:** `Jabri_Gap_results.csv`  
 **Figure:** `Jabri_gap_fig.png`  
+**DOI:** [ضع DOI حقها هنا]  
+**URL:** [ضع الرابط هنا]  
 Numerical verification of mass gap existence for Yang-Mills theory.
 
 ## Figures
