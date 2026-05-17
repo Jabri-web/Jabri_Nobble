@@ -1,46 +1,7 @@
 /attachments/20250711/0fd3ef2c-2ea1-4bc2-bb39-24d2677f4d79/mytube_1920x1080.mp4" type="video/mp4">
                 </video>
                 <script>
-                    const video = http://document.getElementById("product-demo");
-                    let isScrolling = false;
-                    let startY, startTime;
-
-                    // Scroll Speed Calculation
-                    function calculateScrollSpeed(deltaY, deltaTime) {
-                        return http://Math.abs(deltaY) / deltaTime;
-                    }
-
-                    // Playback Speed Adjustment Based on Scroll Speed
-                    function adjustPlaybackSpeed(scrollSpeed) {
-                        const minSpeed = 0.5; // Minimum playback speed
-                        const maxSpeed = 2.0; // Maximum playback speed
-                        const minScrollSpeed = 0.1; // Minimum scroll speed
-                        const maxScrollSpeed = 10; // Maximum scroll speed
-                        let speed = http://Math.min(Math.max(minSpeed, (scrollSpeed / maxScrollSpeed) * maxSpeed), maxSpeed);
-                        let speed = Math.min(maxSpeed, Math.max(minSpeed, (scrollSpeed / maxScrollSpeed) * maxSpeed));
-video.playbackRate = speed;
-}
-
-// Handle Scroll Start
-function handleScrollStart(event) {
-    isScrolling = true;
-    startY = event.touches? event.touches[0].clientY : event.clientY;
-    startTime = Date.now();
-}
-
-// Handle Scrolling
-function handleScroll(event) {
-    if (!isScrolling) return;
-
-    const currentY = event.touches? event.touches[0].clientY : event.clientY;
-    const deltaY = currentY - startY;
-    const deltaTime = Date.now() - startTime;
-
-    const scrollSpeed = calculateScrollSpeed(deltaY, deltaTime);
-    adjustPlaybackSpeed(scrollSpeed);
-
-    startY = currentY;
-    startTime = Date.now();
+                    
 }
 
 // Handle Scroll End
