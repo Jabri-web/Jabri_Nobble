@@ -17,47 +17,48 @@
                         const minScrollSpeed = 0.1; // Minimum scroll speed
                         const maxScrollSpeed = 10; // Maximum scroll speed
                         let speed = http://Math.min(Math.max(minSpeed, (scrollSpeed / maxScrollSpeed) * maxSpeed), maxSpeed);
-                        http://video.playbackRate = speed;
-                    }
+                        let speed = Math.min(maxSpeed, Math.max(minSpeed, (scrollSpeed / maxScrollSpeed) * maxSpeed));
+video.playbackRate = speed;
+}
 
-                    // Handle Scroll Start
-                    function handleScrollStart(event) {
-                        isScrolling = true;
-                        startY = http://event.touches? http://event.touches.clientY : http://event.clientY;
-                        startTime = http://Date.now();
-                    }[0]
+// Handle Scroll Start
+function handleScrollStart(event) {
+    isScrolling = true;
+    startY = event.touches? event.touches[0].clientY : event.clientY;
+    startTime = Date.now();
+}
 
-                    // Handle Scrolling
-                    function handleScroll(event) {
-                        if (!isScrolling) return;
+// Handle Scrolling
+function handleScroll(event) {
+    if (!isScrolling) return;
 
-                        const currentY = http://event.touches? http://event.touches.clientY : http://event.clientY;
-                        const deltaY = currentY - startY;
-                        const deltaTime = http://Date.now() - startTime;[0]
+    const currentY = event.touches? event.touches[0].clientY : event.clientY;
+    const deltaY = currentY - startY;
+    const deltaTime = Date.now() - startTime;
 
-                        const scrollSpeed = calculateScrollSpeed(deltaY, deltaTime);
-                        adjustPlaybackSpeed(scrollSpeed);
+    const scrollSpeed = calculateScrollSpeed(deltaY, deltaTime);
+    adjustPlaybackSpeed(scrollSpeed);
 
-                        startY = currentY;
-                        startTime = http://Date.now();
-                    }
+    startY = currentY;
+    startTime = Date.now();
+}
 
-                    // Handle Scroll End
-                    function handleScrollEnd() {
-                        isScrolling = false;
-                        http://video.playbackRate = 1.0; // Reset playback speed
-                    }
+// Handle Scroll End
+function handleScrollEnd() {
+    isScrolling = false;
+    video.playbackRate = 1.0; // Reset playback speed
+}
 
-                    // Event Listeners
-                    http://video.addEventListener("touchstart", handleScrollStart);
-                    http://video.addEventListener("touchmove", handleScroll);
-                    http://video.addEventListener("touchend", handleScrollEnd);
+// Event Listeners
+video.addEventListener("touchstart", handleScrollStart);
+video.addEventListener("touchmove", handleScroll);
+video.addEventListener("touchend", handleScrollEnd);
 
-                    http://video.addEventListener("mousedown", handleScrollStart);
-                    http://video.addEventListener("mousemove", handleScroll);
-                    http://video.addEventListener("mouseup", handleScrollEnd);
-                    http://video.addEventListener("mouseleave", handleScrollEnd);
-                </script>
+video.addEventListener("mousedown", handleScrollStart);
+video.addEventListener("mousemove", handleScroll);
+video.addEventListener("mouseup", handleScrollEnd);
+video.addEventListener("mouseleave", handleScrollEnd);
+</script>
             </div>
 
             <!-- Features Section -->
