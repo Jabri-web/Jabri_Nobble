@@ -3,7 +3,6 @@
 ## Description
 Research repository for the Jabri_Nobble project. Contains the source code, notebooks, and figures for proofs using the Jabri identity $Z_t=1$.
 
-
 ## Review & Collaboration
 
 This repository presents a computational and analytical approach based on the Jabri Identity $Z_t=1$. 
@@ -18,6 +17,7 @@ I’m inviting mathematicians and researchers to review the method, reproduce th
 If you see a flaw, a simplification, or a way to extend the bound to larger Im(s), please open an issue or PR.
 
 All code is MIT licensed. All data and notebooks are CC BY 4.0.
+
 ## Papers
 
 ### 1. Navier-Stokes Existence and Smoothness on an Invariant Set
@@ -43,8 +43,8 @@ Derivation and numerical verification of the Jabri identity $Z_t=1$ for the firs
 **Notebook:** `Jabri_n_p_proof.ipynb`  
 **Data:** `Jabri_NP_results.csv`  
 **Figure:** `Figure_Ztnp_Jabri.png`  
-**DOI:** [ضع DOI حقها هنا]  
-**URL:** [ضع الرابط هنا]  
+**DOI:** 10.5281/zenodo.20145279  
+**URL:** https://doi.org/10.5281/zenodo.20145279  
 Proof that P ≠ NP using time complexity bounds from the Jabri identity.
 
 ### 4. Yang-Mills Mass Gap
@@ -52,8 +52,8 @@ Proof that P ≠ NP using time complexity bounds from the Jabri identity.
 **Notebook:** `Jabri_gap_proof.ipynb`  
 **Data:** `Jabri_Gap_results.csv`  
 **Figure:** `Jabri_gap_fig.png`  
-**DOI:** [ضع DOI حقها هنا]  
-**URL:** [ضع الرابط هنا]  
+**DOI:** 10.5281/zenodo.20148344  
+**URL:** https://doi.org/10.5281/zenodo.20148344  
 Numerical verification of mass gap existence for Yang-Mills theory.
 
 ## Figures
