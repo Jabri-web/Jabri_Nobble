@@ -1,72 +1,58 @@
 # Jabri_Nobble
 
-## Description
-Research repository for the Jabri_Nobble project. Contains the source code, notebooks, and figures for proofs using the Jabri identity $Z_t=1$.
+Research repository for the Jabri_Nobble project. Contains source code, notebooks, LaTeX sources, data, and figures for proofs using the Jabri Identity $Z_t = 1$.
 
-## Review & Collaboration
+## License
+- **Code**: MIT License
+- **Data & Notebooks**: CC BY 4.0
 
-This repository presents a computational and analytical approach based on the Jabri Identity $Z_t=1$. 
+## Projects
 
-**Current scope:**
-- Numerical verification for the first 10 zeros of ζ(s)
-- Local analysis of `zx(s)` in the strip 0.4 ≤ Re(s) ≤ 0.6 for Im(s) ≤ 500
-- Reproducible code and data in the notebooks
+### 1- Jabri_Riemann
+- **Paper**: [Jabri_Riemann.pdf](Jabri_Riemann.pdf)
+- **LaTeX**: [Jabri_Riemann.tex](Jabri_Riemann.tex)
+- **Notebook**: [Jabri_Riemann.ipynb](Jabri_Riemann.ipynb)
+- **Data**: [Jabri_Riemann_table.csv](Jabri_Riemann_table.csv)
+- **Table LaTeX**: [Jabri_Riemann_table.tex](Jabri_Riemann_table.tex)
 
-**Next step:**  
-I’m inviting mathematicians and researchers to review the method, reproduce the results, and help identify gaps or extensions.  
-If you see a flaw, a simplification, or a way to extend the bound to larger Im(s), please open an issue or PR.
+### 2- Jabri_np
+- **Paper**: [Jabri_np.pdf](Jabri_np.pdf)
+- **LaTeX**: [Jabri_np.tex](Jabri_np.tex)
+- **Notebook**: [Jabri_np.ipynb](Jabri_np.ipynb)
+- **Data**: [Jabri_np_table.csv](Jabri_np_table.csv)
+- **Figure**: [Jabri_np_figure.png](Jabri_np_figure.png)
 
-All code is MIT licensed. All data and notebooks are CC BY 4.0.
+### 3- Jabri_gap
+- **Paper**: [Jabri_gab.pdf](Jabri_gab.pdf)
+- **LaTeX**: [Jabri_gab.tex](Jabri_gab.tex)
+- **Notebook**: [Jabri_gap.ipynb](Jabri_gap.ipynb)
+- **Data**: [Jabri_gap_table.csv](Jabri_gap_table.csv)
+- **Figure**: [Jabri_gap_figure.png](Jabri_gap_figure.png)
 
-## Papers
+### 4- Jabri_Navier
+- **Paper**: [Jabri_Navier.pdf](Jabri_Navier.pdf)
+- **LaTeX**: [Jabri_Navier.tex](Jabri_Navier.tex)
+- **Notebook**: [Jabri_Navier.ipynb](Jabri_Navier.ipynb)
+- **Data**: [Jabri_Navier_table.csv](Jabri_Navier_table.csv)
+- **Figure**: [Jabri_Navier_figure.png](Jabri_Navier_figure.png)
 
-### 1. Navier-Stokes Existence and Smoothness on an Invariant Set
-**Paper:** `Jabri_Navier.pdf`  
-**Notebook:** `Jabri_Navier_proof.ipynb`  
-**Data:** `Jabri_Navier_results.csv`  
-**Figure:** `Jabri_Navier_fig.png`  
-**DOI:** 10.5281/zenodo.20149618  
-**URL:** https://doi.org/10.5281/zenodo.20149618  
-Proof of global existence and smoothness for 3D Navier-Stokes for initial data with $\|u_0\|_{H^s}\leq\gamma_5$.
+### 5- Jabri_Birch
+- **Paper**: [Jabri_Birch.pdf](Jabri_Birch.pdf)
+- **LaTeX**: [Jabri_Birch.tex](Jabri_Birch.tex)
+- **Notebook**: [Jabri_Birch.ipynb](Jabri_Birch.ipynb)
+- **Data**: [Jabri_Birch_table.csv](Jabri_Birch_table.csv)
+- **Figure**: [Jabri_Birch_figure.png](Jabri_Birch_figure.png)
 
-### 2. Riemann Hypothesis
-**Paper:** `Riemann_Hypo.pdf`  
-**Notebook:** `Jabri_derivation.ipynb`  
-**Data:** `Jabri_Identity.csv`, `Jabri_Wells.csv`  
-**Figures:** `Jabri_Identity_Proof.png`, `Figure_Zt1_identity.png`  
-**DOI:** 10.5281/zenodo.19981688  
-**URL:** https://doi.org/10.5281/zenodo.19981688  
-Derivation and numerical verification of the Jabri identity $Z_t=1$ for the first zeros.
+### 6- Jabri_Hodge
+- **Paper**: [Jabri_Hodge.pdf](Jabri_Hodge.pdf)
+- **LaTeX**: [Jabri_Hodge.tex](Jabri_Hodge.tex)
+- **Notebook**: [Jabri_Hodge.ipynb](Jabri_Hodge.ipynb)
+- **Data**: [Jabri_Hodge_table.csv](Jabri_Hodge_table.csv)
+- **Figure**: [Jabri_Hodge_figure.png](Jabri_Hodge_figure.png)
 
-### 3. P vs NP
-**Paper:** `Jabri_n_p.pdf`  
-**Notebook:** `Jabri_n_p_proof.ipynb`  
-**Data:** `Jabri_NP_results.csv`  
-**Figure:** `Figure_Ztnp_Jabri.png`  
-**DOI:** 10.5281/zenodo.20145279  
-**URL:** https://doi.org/10.5281/zenodo.20145279  
-Proof that P ≠ NP using time complexity bounds from the Jabri identity.
-
-### 4. Yang-Mills Mass Gap
-**Paper:** `Jabri_gab.pdf`  
-**Notebook:** `Jabri_gap_proof.ipynb`  
-**Data:** `Jabri_Gap_results.csv`  
-**Figure:** `Jabri_gap_fig.png`  
-**DOI:** 10.5281/zenodo.20148344  
-**URL:** https://doi.org/10.5281/zenodo.20148344  
-Numerical verification of mass gap existence for Yang-Mills theory.
-
-## Figures
-<p align="center">
-  <img src="Figure_Zt1_identity.png?raw=true" width="23%" alt="RH Figure"/>
-  <img src="Figure_Ztnp_Jabri.png?raw=true" width="23%" alt="NP Figure"/>
-  <img src="Jabri_gap_fig.png?raw=true" width="23%" alt="Gap Figure"/>
-  <img src="Jabri_Navier_fig.png?raw=true" width="23%" alt="Navier-Stokes Figure"/>
-</p>
-
-## How to Reproduce Results
-Each paper has a notebook. Run all cells in order:
+## How to Reproduce
+Each project has a Jupyter notebook. Run all cells in order:
 
 ```bash
-pip install mpmath numpy pandas matplotlib
-jupyter notebook [notebook_name].ipynb
+pip install mpmath numpy pandas matplotlib jupyter
+jupyter notebook Jabri_Riemann.ipynb
