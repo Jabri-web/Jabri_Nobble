@@ -1,81 +1,129 @@
-#file= README.md
-# repo= Jabri_Nobble
+#General README.md
 
-
+<meta charset="UTF-8">
 <div align="center">
 
 <img src="Image/Jabri-photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
 
 # Eng. Abdulla Mohammed Nasser Al-Jabri
 ### م. عبدالله محمد ناصر الجبري
-
 **Independent Researcher in Mathematics & Theoretical Physics**  
-**باحث مستقل في الرياضيات والفيزياء النظرية**
-
+**باحث مستقل في الرياضيات والفيزياء النظرية**  
 **Research Focus:** Zx Function & Millennium Problems  
 **مجال البحث:** دالة Zx ومسائل الألفية
 
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009--0003--3319--3822-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3319-3822)
+
 [![Visit Profile](https://img.shields.io/badge/Visit-GitHub%20Profile-6ae3ff?style=for-the-badge&logo=github)](https://github.com/Jabri-web)
 
-<!-- GitHub Stats Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Jabri-web&color=6ae3ff&style=for-the-badge&label=Visitors)](https://github.com/Jabri-web)
 [![GitHub Stars](https://img.shields.io/github/stars/Jabri-web?color=yellow&style=for-the-badge&logo=github)](https://github.com/Jabri-web?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/Jabri-web?color=green&style=for-the-badge&logo=github)](https://github.com/Jabri-web?tab=followers)
 
+### 🏆 Achievements / الإنجازات
+[![YOLO](https://img.shields.io/badge/YOLO-Explorer-00ffc8?style=for-the-badge&logo=github)](https://github.com/Jabri-web)
+[![Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-6ae3ff?style=for-the-badge&logo=github)](https://github.com/Jabri-web)
+
 ---
-Research repository for the Jabri_Nobble project. Contains source code, notebooks, LaTeX sources, data, and figures for proofs using the Jabri Identity $Z_t = 1$.
+![Zx Equations](Image/Zx_Equations.png)
+![Zx Equation Figure](Image/Zx_Eq_figure.png)
+---
+</div>
+<div align="center"
+### 📄 License / الترخيص
+**CC BY 4.0** - Free to use with attribution  
+**Jabri Identity:** `Z + C + A = 1`
 
-## License
-- **Code**: MIT License
-- **Data & Notebooks**: CC BY 4.0
 
-## Projects
+#_____________________________
+#_____________________________
+#_____________________________
 
-### 1- Jabri_Riemann
-- **Paper**: [Jabri_Riemann.pdf](Db-pdf/Jabri_Riemann.pdf)
-- **LaTeX**: [Jabri_Riemann.tex](Tex/Jabri_Riemann.tex)
-- **Notebook**: [Jabri_Riemann.ipynb](Python/Jabri_Riemann.ipynb)
-- **Data**: [Jabri_Riemann_table.csv](Data/Jabri_Riemann_table.csv)
-- **Table LaTeX**: [Jabri_Riemann_table.tex](Tex/Jabri_Riemann_table.tex)
 
-### 2- Jabri_np
-- **Paper**: [Jabri_np.pdf](Db-pdf/Jabri_np.pdf)
-- **LaTeX**: [Jabri_np.tex](Tex/Jabri_np.tex)
-- **Notebook**: [Jabri_np.ipynb](Jabri_np.ipynb)
-- **Data**: [Jabri_np_table.csv](Jabri_np_table.csv)
-- **Figure**: [Jabri_np_figure.png](Jabri_np_figure.png)
+## 🔗 Dbase: All Research Links & DOIs
+قاعدة بيانات جميع مشاريع Zx + الروابط + الـ DOI
 
-### 3- Jabri_gap
-- **Paper**: [Jabri_gab.pdf](Jabri_gab.pdf)
-- **LaTeX**: [Jabri_gab.tex](Jabri_gab.tex)
-- **Notebook**: [Jabri_gap.ipynb](Jabri_gap.ipynb)
-- **Data**: [Jabri_gap_table.csv](Jabri_gap_table.csv)
-- **Figure**: [Jabri_gap_figure.png](Jabri_gap_figure.png)
+<details>
 
-### 4- Jabri_Navier
-- **Paper**: [Jabri_Navier.pdf](Jabri_Navier.pdf)
-- **LaTeX**: [Jabri_Navier.tex](Jabri_Navier.tex)
-- **Notebook**: [Jabri_Navier.ipynb](Jabri_Navier.ipynb)
-- **Data**: [Jabri_Navier_table.csv](Jabri_Navier_table.csv)
-- **Figure**: [Jabri_Navier_figure.png](Jabri_Navier_figure.png)
+  
+<summary><b>🚀 Press here / اضغط هنا لعرض كل الروابط 📚</b></summary>
 
-### 5- Jabri_Birch
-- **Paper**: [Jabri_Birch.pdf](Jabri_Birch.pdf)
-- **LaTeX**: [Jabri_Birch.tex](Jabri_Birch.tex)
-- **Notebook**: [Jabri_Birch.ipynb](Jabri_Birch.ipynb)
-- **Data**: [Jabri_Birch_table.csv](Jabri_Birch_table.csv)
-- **Figure**: [Jabri_Birch_figure.png](Jabri_Birch_figure.png)
+<br>
 
-### 6- Jabri_Hodge
-- **Paper**: [Jabri_Hodge.pdf](Jabri_Hodge.pdf)
-- **LaTeX**: [Jabri_Hodge.tex](Jabri_Hodge.tex)
-- **Notebook**: [Jabri_Hodge.ipynb](Jabri_Hodge.ipynb)
-- **Data**: [Jabri_Hodge_table.csv](Jabri_Hodge_table.csv)
-- **Figure**: [Jabri_Hodge_figure.png](Jabri_Hodge_figure.png)
+| # | المشروع / Project | GitHub Pages | DOI Zenodo |
+| --- | --- | --- | --- |
+| 1 | **Jabri6218.github.io** | [Pages](https://jabri-web.github.io/jabri62018.github.io/) | [20403864](https://doi.org/10.5281/zenodo.20403864) |
+| 2 | **Zx_RieOS_v1.2** | [Pages](https://jabri-web.github.io/Zx_RieOS_v1.2/) | [20100622](https://doi.org/10.5281/zenodo.20100622) |
+| 3 | **Zx_Mother_Function_Jabri** | [Pages](https://Jabri-web.github.io/Zx_Mother_Function_Jabri/) | - |
+| 4 | **Jabri-web.github.io** | [Pages](https://Jabri-web.github.io/) | [20499365](https://doi.org/10.5281/zenodo.20499365) / [20404167](https://doi.org/10.5281/zenodo.20404167) |
+| 5 | **Jabri_Nobble** | [Pages](https://jabri-web.github.io/Jabri_Nobble/) | [20148770](https://doi.org/10.5281/zenodo.20148770) |
+| 5.1 | └─ Jabri_Riemann | - | [20139904](https://doi.org/10.5281/zenodo.20139904) / [20145337](https://doi.org/10.5281/zenodo.20145337) |
+| 5.2 | └─ Jabri_np | - | [20145279](https://doi.org/10.5281/zenodo.20145279) |
+| 5.3 | └─ Jabri_gab | - | [20148344](https://doi.org/10.5281/zenodo.20148344) |
+| 5.4 | └─ Jabri_Navier | - | [20149618](https://doi.org/10.5281/zenodo.20149618) |
+| 5.7 | └─ Jabri_Identity | - | [20114317](https://doi.org/10.5281/zenodo.20114317) |
+| 6 | **Jabri_lab** | [Pages](https://jabri-web.github.io/jabri_lab/) | قيد النشر |
+| 7 | **Zx_RieOS_v1.1** | [Pages](https://Jabri-web.github.io/Zx_RieOS_v1.1/) | [19981688](https://doi.org/10.5281/zenodo.19981688) / [20070594](https://doi.org/10.5281/zenodo.20070594) |
+| 8 | **Jabri_RiemannOS** | [Pages](https://jabri-web.github.io/Jabri-RiemannOS/) | - |
+| 9 | **Jabri_Checkout** | [Pages](https://Jabri-web.github.io/Jabri_Checkout/) | [20513840](https://doi.org/10.5281/zenodo.20513840) |
+| 10 | **Jabri-web** | [Pages](https://jabri-web.github.io/Jabri-web/) | [20499365](https://doi.org/10.5281/zenodo.20499365) |
 
-## How to Reproduce
-Each project has a Jupyter notebook. Run all cells in order:
+> **Verified 2026-06-09 by Jabri**: كل الروابط 1-10 شغالة. DOI كله `10.5281`. لا تعديل بعد اليوم.
 
-```bash
-pip install mpmath numpy pandas matplotlib jupyter
-jupyter notebook Jabri_Riemann.ipynb
+</details>
+
+## 📘 اضغط -Press-About This Repo
+<div align="center">
+<a href="./ABOUT.md">
+  <img src="https://img.shields.io/badge/Press%20about%20this%20Repo...-%D8%AD%D9%88%D9%84%20%D9%87%D8%B0%D9%87%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%88-6ae3ff?style=for-the-badge&logo=book&logoColor=white"/>
+</a>
+  
+  #__________________________
+  #__________________________
+  #__________________________
+</div>
+#______________________
+
+| # | المشروع / Project | GitHub Pages | DOI Zenodo |
+| --- | --- | --- | --- |
+| 1 | **Jabri6218.github.io** | [Pages](https://jabri-web.github.io/jabri62018.github.io/) | [20403864](https://doi.org/10.5281/zenodo.20403864) |
+| 2 | **Zx_RieOS_v1.2** | [Pages](https://jabri-web.github.io/Zx_RieOS_v1.2/) | [20100622](https://doi.org/10.5281/zenodo.20100622) |
+| 3 | **Zx_Mother_Function_Jabri** | [Pages](https://Jabri-web.github.io/Zx_Mother_Function_Jabri/) | - |
+| 4 | **Jabri-web.github.io** | [Pages](https://Jabri-web.github.io/) | [20499365](https://doi.org/10.5281/zenodo.20499365) / [20404167](https://doi.org/10.5281/zenodo.20404167) |
+| 5 | **Jabri_Nobble** | [Pages](https://jabri-web.github.io/Jabri_Nobble/) | [20148770](https://doi.org/10.5281/zenodo.20148770) |
+| 5.1 | └─ Jabri_Riemann | - | [20139904](https://doi.org/10.5281/zenodo.20139904) / [20145337](https://doi.org/10.5281/zenodo.20145337) |
+| 5.2 | └─ Jabri_np | - | [20145279](https://doi.org/10.5281/zenodo.20145279) |
+| 5.3 | └─ Jabri_gab | - | [20148344](https://doi.org/10.5281/zenodo.20148344) |
+| 5.4 | └─ Jabri_Navier | - | [20149618](https://doi.org/10.5281/zenodo.20149618) |
+| 5.7 | └─ Jabri_Identity | - | [20114317](https://doi.org/10.5281/zenodo.20114317) |
+| 6 | **Jabri_lab** | [Pages](https://jabri-web.github.io/jabri_lab/) | قيد النشر |
+| 7 | **Zx_RieOS_v1.1** | [Pages](https://Jabri-web.github.io/Zx_RieOS_v1.1/) | [19981688](https://doi.org/10.5281/zenodo.19981688) / [20070594](https://doi.org/10.5281/zenodo.20070594) |
+| 8 | **Jabri_RiemannOS** | [Pages](https://jabri-web.github.io/Jabri-RiemannOS/) | - |
+| 9 | **Jabri_Checkout** | [Pages](https://Jabri-web.github.io/Jabri_Checkout/) | [20513840](https://doi.org/10.5281/zenodo.20513840) |
+| 10 | **Jabri-web** | [Pages](https://jabri-web.github.io/Jabri-web/) | [20499365](https://doi.org/10.5281/zenodo.20499365) |
+
+> **Verified 2026-06-09 by Jabri**: كل الروابط 1-10 شغالة. DOI كله `10.5281`. لا
+
+
+#______________________
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Jabri-web&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabri-web&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+## 🤝 Partnerships & Contact
+مهتم بشراكة بحثية أو إعلان مدفوع؟ تواصل معي:
+
+### 🔗 Contact
+- **ORCID:** [0009-0003-3319-3822](https://orcid.org/0009-0003-3319-3822)  
+- **Email:** [jabri.2018@gmail.com](mailto:jabri.2018@gmail.com)  
+- **Website:** [Jabri-web.github.io](https://Jabri-web.github.io)
+- **GitHub:** [View All Repositories](https://github.com/Jabri-web?tab=repositories)  
+- **Sponsor:** [Become a sponsor](https://github.com/sponsors/Jabri-web)
+
+<div align="center">
+<i>"From Riemann zeros to the structure of the universe"</i>
+</div>
+</div>
