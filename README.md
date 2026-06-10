@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="Jabri_photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
+<img src="Image/Jabri-photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
 
 # Eng. Abdulla Mohammed Nasser Al-Jabri
 ### م. عبدالله محمد ناصر الجبري
@@ -32,15 +32,15 @@ Research repository for the Jabri_Nobble project. Contains source code, notebook
 ## Projects
 
 ### 1- Jabri_Riemann
-- **Paper**: [Jabri_Riemann.pdf](Jabri_Riemann.pdf)
-- **LaTeX**: [Jabri_Riemann.tex](Jabri_Riemann.tex)
-- **Notebook**: [Jabri_Riemann.ipynb](Jabri_Riemann.ipynb)
-- **Data**: [Jabri_Riemann_table.csv](Jabri_Riemann_table.csv)
-- **Table LaTeX**: [Jabri_Riemann_table.tex](Jabri_Riemann_table.tex)
+- **Paper**: [Jabri_Riemann.pdf](Db-pdf/Jabri_Riemann.pdf)
+- **LaTeX**: [Jabri_Riemann.tex](Tex/Jabri_Riemann.tex)
+- **Notebook**: [Jabri_Riemann.ipynb](Python/Jabri_Riemann.ipynb)
+- **Data**: [Jabri_Riemann_table.csv](Data/Jabri_Riemann_table.csv)
+- **Table LaTeX**: [Jabri_Riemann_table.tex](Tex/Jabri_Riemann_table.tex)
 
 ### 2- Jabri_np
-- **Paper**: [Jabri_np.pdf](Jabri_np.pdf)
-- **LaTeX**: [Jabri_np.tex](Jabri_np.tex)
+- **Paper**: [Jabri_np.pdf](Db-pdf/Jabri_np.pdf)
+- **LaTeX**: [Jabri_np.tex](Tex/Jabri_np.tex)
 - **Notebook**: [Jabri_np.ipynb](Jabri_np.ipynb)
 - **Data**: [Jabri_np_table.csv](Jabri_np_table.csv)
 - **Figure**: [Jabri_np_figure.png](Jabri_np_figure.png)
