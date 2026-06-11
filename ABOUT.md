@@ -41,37 +41,37 @@ Research repository for the Jabri_Nobble project. Contains source code, notebook
 ### 2- Jabri_np
 - **Paper**: [Jabri_np.pdf](Db-pdf/Jabri_np.pdf)
 - **LaTeX**: [Jabri_np.tex](Tex/Jabri_np.tex)
-- **Notebook**: [Jabri_np.ipynb](Jabri_np.ipynb)
-- **Data**: [Jabri_np_table.csv](Jabri_np_table.csv)
-- **Figure**: [Jabri_np_figure.png](Jabri_np_figure.png)
+- **Notebook**: [Jabri_np.ipynb](Python/Jabri_np.ipynb)
+- **Data**: [Jabri_np_table.csv](Data/Jabri_np_table.csv)
+- **Figure**: [Jabri_np_figure.png](Image/Jabri_np_figure.png)
 
 ### 3- Jabri_gap
-- **Paper**: [Jabri_gab.pdf](Jabri_gab.pdf)
-- **LaTeX**: [Jabri_gab.tex](Jabri_gab.tex)
-- **Notebook**: [Jabri_gap.ipynb](Jabri_gap.ipynb)
-- **Data**: [Jabri_gap_table.csv](Jabri_gap_table.csv)
-- **Figure**: [Jabri_gap_figure.png](Jabri_gap_figure.png)
+- **Paper**: [Jabri_gab.pdf](Db-pdf/Jabri_gab.pdf)
+- **LaTeX**: [Jabri_gab.tex](Tex/Jabri_gab.tex)
+- **Notebook**: [Jabri_gap.ipynb](Python/Jabri_gap.ipynb)
+- **Data**: [Jabri_gap_table.csv](Data/Jabri_gap_table.csv)
+- **Figure**: [Jabri_gap_figure.png](Image/Jabri_gap_figure.png)
 
 ### 4- Jabri_Navier
-- **Paper**: [Jabri_Navier.pdf](Jabri_Navier.pdf)
-- **LaTeX**: [Jabri_Navier.tex](Jabri_Navier.tex)
-- **Notebook**: [Jabri_Navier.ipynb](Jabri_Navier.ipynb)
-- **Data**: [Jabri_Navier_table.csv](Jabri_Navier_table.csv)
-- **Figure**: [Jabri_Navier_figure.png](Jabri_Navier_figure.png)
+- **Paper**: [Jabri_Navier.pdf](Db-pdf/Jabri_Navier.pdf)
+- **LaTeX**: [Jabri_Navier.tex](Tex/Jabri_Navier.tex)
+- **Notebook**: [Jabri_Navier.ipynb](Python/Jabri_Navier.ipynb)
+- **Data**: [Jabri_Navier_table.csv](Data/Jabri_Navier_table.csv)
+- **Figure**: [Jabri_Navier_figure.png](Image/Jabri_Navier_figure.png)
 
 ### 5- Jabri_Birch
-- **Paper**: [Jabri_Birch.pdf](Jabri_Birch.pdf)
-- **LaTeX**: [Jabri_Birch.tex](Jabri_Birch.tex)
-- **Notebook**: [Jabri_Birch.ipynb](Jabri_Birch.ipynb)
-- **Data**: [Jabri_Birch_table.csv](Jabri_Birch_table.csv)
-- **Figure**: [Jabri_Birch_figure.png](Jabri_Birch_figure.png)
+- **Paper**: [Jabri_Birch.pdf](Db-pdf/Jabri_Birch.pdf)
+- **LaTeX**: [Jabri_Birch.tex](Tex/Jabri_Birch.tex)
+- **Notebook**: [Jabri_Birch.ipynb](Python/Jabri_Birch.ipynb)
+- **Data**: [Jabri_Birch_table.csv](Data/Jabri_Birch_table.csv)
+- **Figure**: [Jabri_Birch_figure.png](Image/Jabri_Birch_figure.png)
 
 ### 6- Jabri_Hodge
-- **Paper**: [Jabri_Hodge.pdf](Jabri_Hodge.pdf)
-- **LaTeX**: [Jabri_Hodge.tex](Jabri_Hodge.tex)
-- **Notebook**: [Jabri_Hodge.ipynb](Jabri_Hodge.ipynb)
-- **Data**: [Jabri_Hodge_table.csv](Jabri_Hodge_table.csv)
-- **Figure**: [Jabri_Hodge_figure.png](Jabri_Hodge_figure.png)
+- **Paper**: [Jabri_Hodge.pdf](Db-pdf/Jabri_Hodge.pdf)
+- **LaTeX**: [Jabri_Hodge.tex](Tex/Jabri_Hodge.tex)
+- **Notebook**: [Jabri_Hodge.ipynb](Python/Jabri_Hodge.ipynb)
+- **Data**: [Jabri_Hodge_table.csv](Data/Jabri_Hodge_table.csv)
+- **Figure**: [Jabri_Hodge_figure.png](Image/Jabri_Hodge_figure.png)
 
 ## How to Reproduce
 Each project has a Jupyter notebook. Run all cells in order:
