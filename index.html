@@ -1,10 +1,10 @@
-<!--Jabri_Nobble index.html
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jabri_Nobble - Millennium Proofs</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <style>
@@ -21,6 +21,7 @@ h1, h2 {
   color: #58a6ff; 
   border-bottom: 2px solid #30363d; 
   padding-bottom: 8px; 
+  margin-top: 40px;
 }
 a { color: #58a6ff; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -31,6 +32,7 @@ a:hover { text-decoration: underline; }
   margin: 15px 0; 
   border: 1px solid #30363d;
 }
+.doi h3 { margin-top: 0; color: #f0f6fc; }
 .badge { 
   display: inline-block; 
   padding: 6px 14px; 
@@ -53,7 +55,9 @@ pre {
   overflow-x: auto;
   border: 1px solid #30363d;
   color: #c9d1d9;
+  font-size: 14px;
 }
+.center { text-align: center; }
 </style>
 </head>
 <body>
@@ -66,6 +70,7 @@ pre {
   <span class="badge">Open Access</span>
   <span class="badge">Reproducible</span>
   <span class="badge">MIT License</span>
+  <span class="badge">Zenodo DOI</span>
 </div>
 
 <h2>المستودع الرئيسي</h2>
@@ -75,7 +80,7 @@ pre {
 
 <div class="doi">
   <h3>1. Riemann Hypothesis - فرضية ريمان</h3>
-  <p>DOI: <a href="https://doi.org/10.5281/zenodo.19981688" target="_blank">10.5281/zenodo.19981688</a></p>
+  <p>DOI: <a href="https://doi.org/10.5281/zenodo.20139904" target="_blank">10.5281/zenodo.20139904</a></p>
 </div>
 
 <div class="doi">
@@ -89,21 +94,27 @@ pre {
 </div>
 
 <div class="doi">
-  <h3>4. Navier-Stokes Existence and Smoothness</h3>
+  <h3>4. Jabri Identity - هوية الجبري</h3>
+  <p>$$Z + C + A = 1$$</p>
+  <p>DOI: <a href="https://doi.org/10.5281/zenodo.20114317" target="_blank">10.5281/zenodo.20114317</a></p>
+</div>
+
+<div class="doi">
+  <h3>5. Navier-Stokes Existence and Smoothness</h3>
   <p>DOI: <a href="https://doi.org/10.5281/zenodo.20149618" target="_blank">10.5281/zenodo.20149618</a></p>
 </div>
 
 <h2>الصور التوضيحية</h2>
-<p>
-  <img src="Image/Figure_Zt1_identity.png" alt="RH Figure">
+<div class="center">
+  <img src="Image/Figure_Zt1_identity.png" alt="RH Figure - Jabri Identity">
   <img src="Image/Figure_Ztnp_Jabri.png" alt="NP Figure">
-</p>
+</div>
 
 <h2>How to Reproduce - طريقة التشغيل</h2>
-<pre><code>pip install mpmath numpy pandas matplotlib jupyter notebook
-jupyter notebook Jabri_derivation.ipynb</code></pre>
+<pre><code>pip install mpmath numpy pandas matplotlib jupyter
+jupyter notebook Jabri_Riemann.ipynb</code></pre>
 
-<p style="margin-top:40px; text-align:center; color:#8b949e;">
+<p style="margin-top:40px; text-align:center; color:#8b949e; font-size:16px;">
 من صنعاء إلى الكون 🇾🇪 From Sana'a to the Universe 🌍
 </p>
 
