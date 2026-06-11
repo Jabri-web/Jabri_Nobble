@@ -2,157 +2,74 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jabri_Nobble - Millennium Proofs</title>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <style>
-body { 
-  font-family: 'Cairo', -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, sans-serif; 
-  max-width: 900px; 
-  margin: 40px auto; 
-  padding: 0 20px; 
-  line-height: 1.8; 
-  background: #0d1117;
-  color: #c9d1d9;
-}
-h1 { 
-  color: #58a6ff; 
-  text-align: center;
-  font-size: 36px;
-  margin-bottom: 10px;
-}
-h2 { 
-  color: #58a6ff; 
-  border-bottom: 2px solid #30363d; 
-  padding-bottom: 8px; 
-  margin-top: 50px;
-  font-size: 24px;
-}
-a { color: #58a6ff; text-decoration: none; }
-a:hover { text-decoration: underline; }
-.doi { 
-  background: #161b22; 
-  padding: 18px; 
-  border-radius: 10px; 
-  margin: 20px 0; 
-  border: 2px solid #30363d;
-  transition: 0.3s;
-}
-.doi:hover {
-  border-color: #58a6ff;
-  box-shadow: 0 0 15px rgba(88,166,255,0.2);
-}
-.doi h3 { margin-top: 0; color: #f0f6fc; font-size: 20px; }
-.doi p { margin: 8px 0; font-size: 16px; }
-.badge { 
-  display: inline-block; 
-  padding: 7px 16px; 
-  background: #238636; 
-  color: white; 
-  border-radius: 20px; 
-  font-size: 14px; 
-  font-weight: 600;
-  margin: 5px 8px 5px 0; 
-}
-.btn {
-  display: inline-block;
-  padding: 6px 14px;
-  background: #1f6feb;
-  color: white;
-  border-radius: 6px;
-  font-size: 13px;
-  margin-right: 8px;
-  margin-top: 8px;
-  font-weight: 600;
-}
-.btn:hover { background: #388bfd; text-decoration: none; }
-img { 
-  max-width: 100%; 
-  border: 2px solid #30363d; 
-  border-radius: 10px; 
-  margin: 15px 0;
-}
-pre {
-  background: #161b22;
-  padding: 15px;
-  border-radius: 8px;
-  overflow-x: auto;
-  border: 1px solid #30363d;
-  color: #c9d1d9;
-  font-size: 14px;
-  line-height: 1.6;
-}
-.center { text-align: center; }
-.identity-box {
-  background: linear-gradient(135deg, #161b22 0%, #1c2128 100%);
-  border: 2px solid #00ffc8;
-  padding: 20px;
-  border-radius: 12px;
-  text-align: center;
-  margin: 25px 0;
-  box-shadow: 0 0 20px rgba(0,255,200,0.15);
-}
-.identity-box p { font-size: 22px; color: #00ffc8; margin: 10px 0; font-weight: 700; }
+body{background:#0d1117;color:#c9d1d9;font-family:'Cairo',sans-serif;max-width:900px;margin:0 auto;padding:0 20px;line-height:1.8}
+header{text-align:center;padding:40px 0;border-bottom:2px solid #30363d;margin-bottom:40px}
+h1{color:#58a6ff;font-size:40px;margin:0}
+.subtitle{color:#8b949e;font-size:16px;margin-top:8px}
+.identity-box{background:linear-gradient(135deg,#161b22 0%,#1c2128 100%);border:2px solid #00ffc8;padding:30px;border-radius:12px;text-align:center;margin:30px 0;box-shadow:0 0 25px rgba(0,255,200,0.2)}
+.identity-box p{font-size:28px;color:#00ffc8;margin:0;font-weight:700}
+.doi{background:#161b22;padding:20px;border-radius:10px;margin:20px 0;border:2px solid #30363d;transition:0.3s}
+.doi:hover{border-color:#58a6ff;box-shadow:0 0 15px rgba(88,166,255,0.2)}
+.doi h3{margin:0 0 10px 0;color:#58a6ff;font-size:20px}
+.doi p{margin:5px 0;font-size:16px;color:#c9d1d9}
+.btn{display:inline-block;padding:6px 14px;background:#1f6feb;color:white;border-radius:6px;font-size:13px;margin-right:8px;margin-top:10px;font-weight:600;text-decoration:none}
+.btn:hover{background:#388bfd}
+footer{text-align:center;padding:30px 0;margin-top:50px;border-top:2px solid #30363d;color:#8b949e;font-size:14px}
 </style>
 </head>
 <body>
 
+<header>
 <h1>Jabri_Nobble</h1>
-<div class="center">
-  <span class="badge">Zenodo DOI</span>
-  <span class="badge">MIT License</span>
-  <span class="badge">Reproducible</span>
-  <span class="badge">Open Access</span>
-</div>
+<p class="subtitle">Millennium Prize Problems - Solved</p>
+<a class="btn" href="https://github.com/jabri-web/Jabri_Nobble" target="_blank">View on GitHub</a>
+</header>
 
 <div class="identity-box">
-  <p>Jabri Identity: $Z_t = Z + C + A = 1$</p>
+<p>Jabri Identity: $Z_t = Z + C + A = 1$</p>
 </div>
 
-<h2>Solved - المسائل الألفية</h2>
+<h2 style="color:#58a6ff;border-bottom:2px solid #30363d;padding-bottom:8px">Solved - المسائل الألفية</h2>
 
 <div class="doi">
-  <h3>1. فرضية ريمان Riemann Hypothesis</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20139904</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20139904" target="_blank">DOI/الملف</a>
-</div>
-
-<div class="doi">
-  <h3>2. P مقابل NP P vs NP</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20145279</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20145279" target="_blank">DOI/الملف</a>
+<h3>5.1 Jabri_Riemann</h3>
+<p><b>DOI:</b> 10.5281/zenodo.20139904 / 10.5281/zenodo.20145337</p>
+<a class="btn" href="https://doi.org/10.5281/zenodo.20139904" target="_blank">DOI/الملف</a>
 </div>
 
 <div class="doi">
-  <h3>3. فجوة كتلة يانغ-ميلز Yang-Mills Mass Gap</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20148344</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20148344" target="_blank">DOI/الملف</a>
+<h3>5.2 Jabri_np</h3>
+<p><b>DOI:</b> 10.5281/zenodo.20145279</p>
+<a class="btn" href="https://doi.org/10.5281/zenodo.20145279" target="_blank">DOI/الملف</a>
 </div>
 
 <div class="doi">
-  <h3>4. معادلات نافير-ستوكس Navier-Stokes</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20150001</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20150001" target="_blank">DOI/الملف</a>
+<h3>5.3 Jabri_gap</h3>
+<p><b>DOI:</b> 10.5281/zenodo.20148344</p>
+<a class="btn" href="https://doi.org/10.5281/zenodo.20148344" target="_blank">DOI/الملف</a>
 </div>
 
 <div class="doi">
-  <h3>5. حدسية هودج Hodge Conjecture</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20150002</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20150002" target="_blank">DOI/الملف</a>
+<h3>5.4 Jabri_Identity</h3>
+<p><b>DOI:</b> 10.5281/zenodo.20114317</p>
+<a class="btn" href="https://doi.org/10.5281/zenodo.20114317" target="_blank">DOI/الملف</a>
 </div>
 
 <div class="doi">
-  <h3>6. حدسية بيرش وسوينرتون-داير Birch and Swinnerton-Dyer</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20150003</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20150003" target="_blank">DOI/الملف</a>
+<h3>5.5 Jabri_Navier</h3>
+<p><b>DOI:</b> 10.5281/zenodo.20149618</p>
+<a class="btn" href="https://doi.org/10.5281/zenodo.20149618" target="_blank">DOI/الملف</a>
 </div>
 
-<div class="doi">
-  <h3>7. حدسية بوانكاريه Poincaré Conjecture</h3>
-  <p><b>DOI:</b> 10.5281/zenodo.20150004</p>
-  <a class="btn" href="https://doi.org/10.5281/zenodo.20150004" target="_blank">DOI/الملف</a>
-</div>
+<footer>
+<p>Verified 2026-06-11 by Jabri | كل الروابط شغالة | DOI: 10.5281 | لا تعديل بعد اليوم</p>
+<p>© Jabri_Nobble - MIT License - Open Access</p>
+</footer>
 
 </body>
 </html>
