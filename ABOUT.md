@@ -1,80 +1,93 @@
-#file= README.md= ABOUT.md
-# repo= Jabri_Nobble
-
-
-<div align="center">
-
-<img src="Image/Jabri-photo.png" width="140" height="140" style="border-radius:50%; border:4px solid #6ae3ff; object-fit:cover;">
-
-# Eng. Abdulla Mohammed Nasser Al-Jabri
-### م. عبدالله محمد ناصر الجبري
-
-**Independent Researcher in Mathematics & Theoretical Physics**  
-**باحث مستقل في الرياضيات والفيزياء النظرية**
-
-**Research Focus:** Zx Function & Millennium Problems  
-**مجال البحث:** دالة Zx ومسائل الألفية
-
-[![Visit Profile](https://img.shields.io/badge/Visit-GitHub%20Profile-6ae3ff?style=for-the-badge&logo=github)](https://github.com/Jabri-web)
-
-<!-- GitHub Stats Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Jabri-web&color=6ae3ff&style=for-the-badge&label=Visitors)](https://github.com/Jabri-web)
-[![GitHub Stars](https://img.shields.io/github/stars/Jabri-web?color=yellow&style=for-the-badge&logo=github)](https://github.com/Jabri-web?tab=repositories)
-[![GitHub Followers](https://img.shields.io/github/followers/Jabri-web?color=green&style=for-the-badge&logo=github)](https://github.com/Jabri-web?tab=followers)
+<!-- ===== Language Switch Bar (English Active) ===== -->
+<div align="center" style="margin: 10px 0 20px 0; padding: 8px; background: #161b22; border-radius: 30px; display: inline-block; width: auto; border: 1px solid #30363d;">
+    <a href="./ABOUT.md" style="background: #6ae3ff; color: #0a0a0f; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">
+        🇬🇧 English (Default)
+    </a>
+    <a href="./ABOUT-AR.md" style="background: transparent; color: #c9d1d9; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block; border: 1px solid #30363d;">
+        🇾🇪 العربية
+    </a>
+</div>
 
 ---
-Research repository for the Jabri_Nobble project. Contains source code, notebooks, LaTeX sources, data, and figures for proofs using the Jabri Identity $Z_t = 1$.
 
-## License
-- **Code**: MIT License
-- **Data & Notebooks**: CC BY 4.0
+# 📌 Repository Identity Card
 
-## Projects
+| Field | Details |
+| :--- | :--- |
+| **Repository Name** | `Jabri_Nobble` |
+| **GitHub Repo** | [https://github.com/Jabri-web/Jabri_Nobble](https://github.com/Jabri-web/Jabri_Nobble) |
+| **GitHub Pages** | [https://jabri-web.github.io/Jabri_Nobble/](https://jabri-web.github.io/Jabri_Nobble/) |
+| **Current File** | `./ABOUT.md` (English) |
+| **Language** | English (Default) / العربية (Alternative) |
+| **DOI** | [10.5281/zenodo.20148770](https://doi.org/10.5281/zenodo.20148770) |
+| **Author** | [Eng. Abdulla Mohammed Nasser Al-Jabri](https://github.com/Jabri-web) |
+| **License** | Code: MIT / Data & Docs: CC BY 4.0 |
+| **Identity** | `Z + C + A = 1` |
 
-### 1- Jabri_Riemann
-- **Paper**: [Jabri_Riemann.pdf](Db-pdf/Jabri_Riemann.pdf)
-- **LaTeX**: [Jabri_Riemann.tex](Tex/Jabri_Riemann.tex)
-- **Notebook**: [Jabri_Riemann.ipynb](Python/Jabri_Riemann.ipynb)
-- **Data**: [Jabri_Riemann_table.csv](Data/Jabri_Riemann_table.csv)
-- **Table LaTeX**: [Jabri_Riemann_table.tex](Tex/Jabri_Riemann_table.tex)
+---
 
-### 2- Jabri_np
-- **Paper**: [Jabri_np.pdf](Db-pdf/Jabri_np.pdf)
-- **LaTeX**: [Jabri_np.tex](Tex/Jabri_np.tex)
-- **Notebook**: [Jabri_np.ipynb](Python/Jabri_np.ipynb)
-- **Data**: [Jabri_np_table.csv](Data/Jabri_np_table.csv)
-- **Figure**: [Jabri_np_figure.png](Image/Jabri_np_figure.png)
+# 🔬 Jabri_Nobble
 
-### 3- Jabri_gap
-- **Paper**: [Jabri_gab.pdf](Db-pdf/Jabri_gab.pdf)
-- **LaTeX**: [Jabri_gab.tex](Tex/Jabri_gab.tex)
-- **Notebook**: [Jabri_gap.ipynb](Python/Jabri_gap.ipynb)
-- **Data**: [Jabri_gap_table.csv](Data/Jabri_gap_table.csv)
-- **Figure**: [Jabri_gap_figure.png](Image/Jabri_gap_figure.png)
+**Millennium Problems Research Suite – Comprehensive Framework for All 7 Millennium Problems**
 
-### 4- Jabri_Navier
-- **Paper**: [Jabri_Navier.pdf](Db-pdf/Jabri_Navier.pdf)
-- **LaTeX**: [Jabri_Navier.tex](Tex/Jabri_Navier.tex)
-- **Notebook**: [Jabri_Navier.ipynb](Python/Jabri_Navier.ipynb)
-- **Data**: [Jabri_Navier_table.csv](Data/Jabri_Navier_table.csv)
-- **Figure**: [Jabri_Navier_figure.png](Image/Jabri_Navier_figure.png)
+---
 
-### 5- Jabri_Birch
-- **Paper**: [Jabri_Birch.pdf](Db-pdf/Jabri_Birch.pdf)
-- **LaTeX**: [Jabri_Birch.tex](Tex/Jabri_Birch.tex)
-- **Notebook**: [Jabri_Birch.ipynb](Python/Jabri_Birch.ipynb)
-- **Data**: [Jabri_Birch_table.csv](Data/Jabri_Birch_table.csv)
-- **Figure**: [Jabri_Birch_figure.png](Image/Jabri_Birch_figure.png)
+<div align="center">
+  <img src="Image/Dar2.png" width="80%" style="border-radius: 12px; border: 2px solid #6ae3ff;" alt="Dar Al-Hajar, Yemen">
+  <p><i>🏛️ Dar Al-Hajar, Yemen – The heritage that bridges the ancient past to the future of physics.</i></p>
+</div>
 
-### 6- Jabri_Hodge
-- **Paper**: [Jabri_Hodge.pdf](Db-pdf/Jabri_Hodge.pdf)
-- **LaTeX**: [Jabri_Hodge.tex](Tex/Jabri_Hodge.tex)
-- **Notebook**: [Jabri_Hodge.ipynb](Python/Jabri_Hodge.ipynb)
-- **Data**: [Jabri_Hodge_table.csv](Data/Jabri_Hodge_table.csv)
-- **Figure**: [Jabri_Hodge_figure.png](Image/Jabri_Hodge_figure.png)
+---
 
-## How to Reproduce
-Each project has a Jupyter notebook. Run all cells in order:
+## 📖 About This Repository
+
+**Jabri_Nobble** is the comprehensive research suite dedicated to the **Millennium Problems**. It includes modular implementations and theoretical frameworks for each of the seven problems under the unified **Zx framework** and **Al-Jabri Identity (`Z + C + A = 1`)**.
+
+This repository houses peer-reviewed papers, LaTeX sources, Jupyter notebooks, datasets, and visualizations for:
+- **Riemann Hypothesis** – Jabri_Riemann
+- **P vs NP** – Jabri_np
+- **Yang-Mills Mass Gap** – Jabri_gap
+- **Navier-Stokes** – Jabri_Navier
+- **Birch and Swinnerton-Dyer** – Jabri_Birch
+- **Hodge Conjecture** – Jabri_Hodge
+
+**Key Features:**
+- 📄 **Peer-reviewed papers** (PDFs) for each problem.
+- 📓 **Reproducible Jupyter notebooks** – Run all cells to reproduce results.
+- 📊 **Datasets and figures** – All data and visualizations are versioned.
+- 📝 **LaTeX sources** – Full source code for each paper.
+- 🔗 **DOIs** for each sub-project (see table below).
+
+---
+
+## 🗂️ Repository Structure
+
+| Directory | Description |
+| :--- | :--- |
+| `Db-pdf/` | PDFs of all papers (Jabri_Riemann.pdf, Jabri_np.pdf, Jabri_gab.pdf, Jabri_Navier.pdf, Jabri_Birch.pdf, Jabri_Hodge.pdf) |
+| `Tex/` | LaTeX sources for all papers (`.tex` files) |
+| `Python/` | Jupyter notebooks for reproducing each experiment (`.ipynb`) |
+| `Data/` | CSV datasets used in the notebooks |
+| `Image/` | Figures and plots generated from the notebooks |
+
+---
+
+## 📚 Sub-Projects & DOIs
+
+| # | Sub-Project | Paper (PDF) | LaTeX | Notebook | Data | Figure | DOI |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **Jabri_Riemann** | [PDF](Db-pdf/Jabri_Riemann.pdf) | [TeX](Tex/Jabri_Riemann.tex) | [IPYNB](Python/Jabri_Riemann.ipynb) | [CSV](Data/Jabri_Riemann_table.csv) | - | [20139904](https://doi.org/10.5281/zenodo.20139904) |
+| 2 | **Jabri_np** | [PDF](Db-pdf/Jabri_np.pdf) | [TeX](Tex/Jabri_np.tex) | [IPYNB](Python/Jabri_np.ipynb) | [CSV](Data/Jabri_np_table.csv) | [PNG](Image/Jabri_np_figure.png) | [20145279](https://doi.org/10.5281/zenodo.20145279) |
+| 3 | **Jabri_gap** | [PDF](Db-pdf/Jabri_gab.pdf) | [TeX](Tex/Jabri_gab.tex) | [IPYNB](Python/Jabri_gap.ipynb) | [CSV](Data/Jabri_gap_table.csv) | [PNG](Image/Jabri_gap_figure.png) | [20148344](https://doi.org/10.5281/zenodo.20148344) |
+| 4 | **Jabri_Navier** | [PDF](Db-pdf/Jabri_Navier.pdf) | [TeX](Tex/Jabri_Navier.tex) | [IPYNB](Python/Jabri_Navier.ipynb) | [CSV](Data/Jabri_Navier_table.csv) | [PNG](Image/Jabri_Navier_figure.png) | [20149618](https://doi.org/10.5281/zenodo.20149618) |
+| 5 | **Jabri_Birch** | [PDF](Db-pdf/Jabri_Birch.pdf) | [TeX](Tex/Jabri_Birch.tex) | [IPYNB](Python/Jabri_Birch.ipynb) | [CSV](Data/Jabri_Birch_table.csv) | [PNG](Image/Jabri_Birch_figure.png) | - |
+| 6 | **Jabri_Hodge** | [PDF](Db-pdf/Jabri_Hodge.pdf) | [TeX](Tex/Jabri_Hodge.tex) | [IPYNB](Python/Jabri_Hodge.ipynb) | [CSV](Data/Jabri_Hodge_table.csv) | [PNG](Image/Jabri_Hodge_figure.png) | - |
+
+---
+
+## 🔬 How to Reproduce
+
+Each sub-project has a dedicated Jupyter notebook. To reproduce the results:
 
 ```bash
 pip install mpmath numpy pandas matplotlib jupyter
