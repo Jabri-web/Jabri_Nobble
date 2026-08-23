@@ -1,93 +1,94 @@
-<!-- ===== Language Switch Bar (English Active) ===== -->
+<!-- ===== Language Switch Bar (Arabic Active) ===== -->
 <div align="center" style="margin: 10px 0 20px 0; padding: 8px; background: #161b22; border-radius: 30px; display: inline-block; width: auto; border: 1px solid #30363d;">
-    <a href="./ABOUT.md" style="background: #6ae3ff; color: #0a0a0f; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">
-        🇬🇧 English (Default)
+    <a href="./ABOUT.md" style="background: transparent; color: #c9d1d9; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block; border: 1px solid #30363d;">
+        🇬🇧 English
     </a>
-    <a href="./ABOUT-AR.md" style="background: transparent; color: #c9d1d9; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block; border: 1px solid #30363d;">
-        🇾🇪 العربية
+    <a href="./ABOUT-AR.md" style="background: #6ae3ff; color: #0a0a0f; padding: 6px 22px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">
+        🇾🇪 العربية (الافتراضي)
     </a>
 </div>
 
 ---
 
-# 📌 Repository Identity Card
+# 📌 بطاقة هوية المستودع
 
-| Field | Details |
+| الحقل | التفاصيل |
 | :--- | :--- |
-| **Repository Name** | `Jabri_Nobble` |
-| **GitHub Repo** | [https://github.com/Jabri-web/Jabri_Nobble](https://github.com/Jabri-web/Jabri_Nobble) |
+| **اسم المستودع** | `Jabri_Nobble` |
+| **رابط GitHub** | [https://github.com/Jabri-web/Jabri_Nobble](https://github.com/Jabri-web/Jabri_Nobble) |
 | **GitHub Pages** | [https://jabri-web.github.io/Jabri_Nobble/](https://jabri-web.github.io/Jabri_Nobble/) |
-| **Current File** | `./ABOUT.md` (English) |
-| **Language** | English (Default) / العربية (Alternative) |
+| **الملف الحالي** | `./ABOUT-AR.md` (العربية) |
+| **اللغة** | العربية (الافتراضي) / English (Alternative) |
 | **DOI** | [10.5281/zenodo.20148770](https://doi.org/10.5281/zenodo.20148770) |
-| **Author** | [Eng. Abdulla Mohammed Nasser Al-Jabri](https://github.com/Jabri-web) |
-| **License** | Code: MIT / Data & Docs: CC BY 4.0 |
-| **Identity** | `Z + C + A = 1` |
+| **المؤلف** | [م/ عبدالله محمد ناصر الجبري](https://github.com/Jabri-web) |
+| **الترخيص** | الكود: MIT / البيانات والوثائق: CC BY 4.0 |
+| **الهوية** | `Z + C + A = 1` |
 
 ---
 
 # 🔬 Jabri_Nobble
 
-**Millennium Problems Research Suite – Comprehensive Framework for All 7 Millennium Problems**
+**مجموعة أبحاث مسائل الألفية – إطار شامل لجميع مسائل الألفية السبع**
 
 ---
 
 <div align="center">
-  <img src="Image/Dar2.png" width="80%" style="border-radius: 12px; border: 2px solid #6ae3ff;" alt="Dar Al-Hajar, Yemen">
-  <p><i>🏛️ Dar Al-Hajar, Yemen – The heritage that bridges the ancient past to the future of physics.</i></p>
+  <img src="Image/Dar2.png" width="80%" style="border-radius: 12px; border: 2px solid #6ae3ff;" alt="دار الحجر، اليمن">
+  <p><i>🏛️ دار الحجر، اليمن – التراث الذي يربط الماضي العريق بمستقبل الفيزياء.</i></p>
 </div>
 
 ---
 
-## 📖 About This Repository
+## 📖 عن هذا المستودع
 
-**Jabri_Nobble** is the comprehensive research suite dedicated to the **Millennium Problems**. It includes modular implementations and theoretical frameworks for each of the seven problems under the unified **Zx framework** and **Al-Jabri Identity (`Z + C + A = 1`)**.
+**Jabri_Nobble** هو مجموعة الأبحاث الشاملة المخصصة لـ **مسائل الألفية**. يتضمن تطبيقات وحداتية وأطراً نظرية لكل مسألة ضمن إطار **Zx** الموحد وهوية **الجبري** (`Z + C + A = 1`).
 
-This repository houses peer-reviewed papers, LaTeX sources, Jupyter notebooks, datasets, and visualizations for:
-- **Riemann Hypothesis** – Jabri_Riemann
+يحتوي هذا المستودع على أوراق بحثية محكمة، ومصادر LaTeX، ودفاتر Jupyter، ومجموعات بيانات، ورسوم بيانية لـ:
+
+- **فرضية ريمان** – Jabri_Riemann
 - **P vs NP** – Jabri_np
-- **Yang-Mills Mass Gap** – Jabri_gap
-- **Navier-Stokes** – Jabri_Navier
-- **Birch and Swinnerton-Dyer** – Jabri_Birch
-- **Hodge Conjecture** – Jabri_Hodge
+- **فجوة الكتلة يانغ-ميلز** – Jabri_gap
+- **نافييه-ستوكس** – Jabri_Navier
+- **بيرش وسوينرتون-داير** – Jabri_Birch
+- **حدسية هودج** – Jabri_Hodge
 
-**Key Features:**
-- 📄 **Peer-reviewed papers** (PDFs) for each problem.
-- 📓 **Reproducible Jupyter notebooks** – Run all cells to reproduce results.
-- 📊 **Datasets and figures** – All data and visualizations are versioned.
-- 📝 **LaTeX sources** – Full source code for each paper.
-- 🔗 **DOIs** for each sub-project (see table below).
+**الميزات الرئيسية:**
+- 📄 **أوراق محكمة** (PDF) لكل مسألة.
+- 📓 **دفاتر Jupyter قابلة للتكرار** – شغّل كل الخلايا لإعادة إنتاج النتائج.
+- 📊 **مجموعات بيانات ورسوم** – جميع البيانات والمرئيات مؤرشفة.
+- 📝 **مصادر LaTeX** – الكود الكامل لكل ورقة.
+- 🔗 **DOIs** لكل مشروع فرعي (انظر الجدول أدناه).
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ هيكل المستودع
 
-| Directory | Description |
+| المجلد | الوصف |
 | :--- | :--- |
-| `Db-pdf/` | PDFs of all papers (Jabri_Riemann.pdf, Jabri_np.pdf, Jabri_gab.pdf, Jabri_Navier.pdf, Jabri_Birch.pdf, Jabri_Hodge.pdf) |
-| `Tex/` | LaTeX sources for all papers (`.tex` files) |
-| `Python/` | Jupyter notebooks for reproducing each experiment (`.ipynb`) |
-| `Data/` | CSV datasets used in the notebooks |
-| `Image/` | Figures and plots generated from the notebooks |
+| `Db-pdf/` | ملفات PDF لجميع الأوراق (Jabri_Riemann.pdf, Jabri_np.pdf, Jabri_gab.pdf, Jabri_Navier.pdf, Jabri_Birch.pdf, Jabri_Hodge.pdf) |
+| `Tex/` | مصادر LaTeX لجميع الأوراق (`.tex`) |
+| `Python/` | دفاتر Jupyter لإعادة إنتاج كل تجربة (`.ipynb`) |
+| `Data/` | مجموعات بيانات CSV المستخدمة في الدفاتر |
+| `Image/` | الرسوم والمنحنيات الناتجة من الدفاتر |
 
 ---
 
-## 📚 Sub-Projects & DOIs
+## 📚 المشاريع الفرعية والـ DOIs
 
-| # | Sub-Project | Paper (PDF) | LaTeX | Notebook | Data | Figure | DOI |
+| # | المشروع الفرعي | الورقة (PDF) | LaTeX | دفتر Jupyter | البيانات | الرسم | DOI |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **Jabri_Riemann** | [PDF](Db-pdf/Jabri_Riemann.pdf) | [TeX](Tex/Jabri_Riemann.tex) | [IPYNB](Python/Jabri_Riemann.ipynb) | [CSV](Data/Jabri_Riemann_table.csv) | - | [20139904](https://doi.org/10.5281/zenodo.20139904) |
 | 2 | **Jabri_np** | [PDF](Db-pdf/Jabri_np.pdf) | [TeX](Tex/Jabri_np.tex) | [IPYNB](Python/Jabri_np.ipynb) | [CSV](Data/Jabri_np_table.csv) | [PNG](Image/Jabri_np_figure.png) | [20145279](https://doi.org/10.5281/zenodo.20145279) |
 | 3 | **Jabri_gap** | [PDF](Db-pdf/Jabri_gab.pdf) | [TeX](Tex/Jabri_gab.tex) | [IPYNB](Python/Jabri_gap.ipynb) | [CSV](Data/Jabri_gap_table.csv) | [PNG](Image/Jabri_gap_figure.png) | [20148344](https://doi.org/10.5281/zenodo.20148344) |
 | 4 | **Jabri_Navier** | [PDF](Db-pdf/Jabri_Navier.pdf) | [TeX](Tex/Jabri_Navier.tex) | [IPYNB](Python/Jabri_Navier.ipynb) | [CSV](Data/Jabri_Navier_table.csv) | [PNG](Image/Jabri_Navier_figure.png) | [20149618](https://doi.org/10.5281/zenodo.20149618) |
-| 5 | **Jabri_Birch** | [PDF](Db-pdf/Jabri_Birch.pdf) | [TeX](Tex/Jabri_Birch.tex) | [IPYNB](Python/Jabri_Birch.ipynb) | [CSV](Data/Jabri_Birch_table.csv) | [PNG](Image/Jabri_Birch_figure.png) | - |
-| 6 | **Jabri_Hodge** | [PDF](Db-pdf/Jabri_Hodge.pdf) | [TeX](Tex/Jabri_Hodge.tex) | [IPYNB](Python/Jabri_Hodge.ipynb) | [CSV](Data/Jabri_Hodge_table.csv) | [PNG](Image/Jabri_Hodge_figure.png) | - |
+| 5 | **Jabri_Birch** | [PDF](Db-pdf/Jabri_Birch.pdf) | [TeX](Tex/Jabri_Birch.tex) | [IPYNB](Python/Jabri_Birch.ipynb) | [CSV](Data/Jabri_Birch_table.csv) | [PNG](Image/Jabri_Birch_figure.png) | قيد النشر |
+| 6 | **Jabri_Hodge** | [PDF](Db-pdf/Jabri_Hodge.pdf) | [TeX](Tex/Jabri_Hodge.tex) | [IPYNB](Python/Jabri_Hodge.ipynb) | [CSV](Data/Jabri_Hodge_table.csv) | [PNG](Image/Jabri_Hodge_figure.png) | قيد النشر |
 
 ---
 
-## 🔬 How to Reproduce
+## 🔬 كيفية إعادة الإنتاج
 
-Each sub-project has a dedicated Jupyter notebook. To reproduce the results:
+كل مشروع فرعي له دفتر Jupyter مخصص. لإعادة إنتاج النتائج:
 
 ```bash
 pip install mpmath numpy pandas matplotlib jupyter
